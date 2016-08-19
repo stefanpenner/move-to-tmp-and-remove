@@ -1,0 +1,25 @@
+{
+  "name": "move-to-tmp-and-remove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanpenner/move-to-tmp-and-remove.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanpenner/move-to-tmp-and-remove/issues"
+  },
+  "homepage": "https://github.com/stefanpenner/move-to-tmp-and-remove#readme",
+  "dependencies": {
+    "fs-extra": "^0.30.0"
+  }
+}
